@@ -1,4 +1,4 @@
 node_modules
-./lib/headers.js
 test.csv
 start.js
+/lib/headers.js
