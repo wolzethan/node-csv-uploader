@@ -1,6 +1,6 @@
 {
   "name": "node-csv-uploader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Upload CSVs to Database and choose headers",
   "main": "index.js",
   "scripts": {
