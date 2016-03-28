@@ -1,6 +1,6 @@
 {
   "name": "node-csv-uploader",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "description": "Parse CSVs, order them automatically, and upload to PostgreSQL",
   "main": "index.js",
   "scripts": {
